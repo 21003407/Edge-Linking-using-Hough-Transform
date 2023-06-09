@@ -6,7 +6,7 @@ To write a Python program to detect the lines using Hough Transform.
 Anaconda - Python 3.7
 
 ## Algorithm:
-### Step1:
+### Step1: 
 Import all the necessary modules for the program.
 
 ### Step2:
