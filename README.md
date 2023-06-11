@@ -69,7 +69,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![](original image.jpg)
+![](![Uploading original image.jpg…]())
 ![](output1.jpg)
 
 ### Canny Edge detector output
