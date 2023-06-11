@@ -31,7 +31,7 @@ Reg No      : 212221240019
 
 # Read image and convert it to grayscale image
 
-image = cv2.imread('original image.jpg')
+image = cv2.imread('output.jpg')
 gimage = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 cv2.imshow('Converted Image', gimage)
@@ -69,7 +69,7 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![](original image.jpg)
+![](output.jpg)
 ![](output1.jpg)
 
 ### Canny Edge detector output
