@@ -24,8 +24,8 @@ Apply hough transform and show the detected edge on the original image
 
 ## Program:
 ```
-Developed By: Pranave B
-Reg No      : 212221240040
+Developed By: Joans Jay Authers A
+Reg No      : 212221240019
 ```
 ```Python
 
@@ -69,15 +69,15 @@ cv2.destroyAllWindows()
 ## Output
 
 ### Input image and grayscale image
-![](lanes.jpg)
-![](gray.png)
+![](original image.jpg)
+![](output1.jpg)
 
 ### Canny Edge detector output
-![](can.png)
+![](output2.png)
 
 
 ### Display the result of Hough transform
-![](Hou.png)
+![](output3.jpg)
 
 
 
